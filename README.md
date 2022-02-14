@@ -14,16 +14,16 @@ Version Author: Drew McKinney
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/Epicentered)
+![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/epicentered)
 [![MIT License][license-shield]][license-url]
-![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/Epicentered)
-![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/Epicentered)
+![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/epicentered)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/epicentered)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestendfinancial.herokuapp.com%2F)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://armck-hub.github.io/Epicentered/">
+  <a href="https://armck-hub.github.io/epicentered/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSN_qj-i91HftDjOE4CgHaimXodMDroGt6qn5_IXsKu4vWJyTHI&usqp=CAU" alt="Logo" width="100" height="100">
   </a>
 
@@ -32,11 +32,11 @@ Version Author: Drew McKinney
   <p align="center">
     Web Mapping Quakes Near You
     <br />
-    <a href="https://armck-hub.github.io/Epicentered/" target="_blank"><strong> >> Visit Demo >> </strong></a>
+    <a href="https://armck-hub.github.io/epicentered/" target="_blank"><strong> >> Visit Demo >> </strong></a>
     <br />
-    <a href="https://github.com/ARMcK-hub/Epicentered/issues">Report Bug</a>
+    <a href="https://github.com/ARMcK-hub/epicentered/issues">Report Bug</a>
     -
-    <a href="https://github.com/ARMcK-hub/Epicentered/issues">Request Feature</a>
+    <a href="https://github.com/ARMcK-hub/epicentered/issues">Request Feature</a>
   </p>
 </p>
 
@@ -56,7 +56,7 @@ Version Author: Drew McKinney
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://armck-hub.github.io/Epicentered/)
+[![Product Name Screen Shot][product-screenshot]](https://armck-hub.github.io/epicentered/)
 
 Epicentered is a web page detailing a large quantity of earthquake epicenters and their associated details.
 
@@ -112,14 +112,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- Project Dynamic -->
-[license-shield]: https://img.shields.io/github/license/ARMcK-hub/Epicentered.svg?style=flat
-[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/Epicentered.svg?style=flat
-[contributors-url]: https://github.com/ARMcK-hub/Epicentered/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/Epicentered.svg?style=flat
-[forks-url]: https://github.com/ARMcK-hub/Epicentered/network/members
-[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/Epicentered.svg?style=flat
-[stars-url]: https://github.com/ARMcK-hub/Epicentered/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/Epicentered.svg?style=flat
-[issues-url]: https://github.com/ARMcK-hub/Epicentered/issues
-[product-screenshot]: https://raw.githubusercontent.com/ARMcK-hub/Epicentered/master/static/images/Home_Page.png
+[license-shield]: https://img.shields.io/github/license/ARMcK-hub/epicentered.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/epicentered.svg?style=flat
+[contributors-url]: https://github.com/ARMcK-hub/epicentered/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/epicentered.svg?style=flat
+[forks-url]: https://github.com/ARMcK-hub/epicentered/network/members
+[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/epicentered.svg?style=flat
+[stars-url]: https://github.com/ARMcK-hub/epicentered/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/epicentered.svg?style=flat
+[issues-url]: https://github.com/ARMcK-hub/epicentered/issues
+[product-screenshot]: https://raw.githubusercontent.com/ARMcK-hub/epicentered/master/static/images/Home_Page.png
 
