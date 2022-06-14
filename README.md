@@ -14,16 +14,16 @@ Version Author: Drew McKinney
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/epicentered)
+![GitHub last commit](https://img.shields.io/github/last-commit/armckinney/epicentered)
 [![MIT License][license-shield]][license-url]
-![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/epicentered)
-![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/epicentered)
+![GitHub top language](https://img.shields.io/github/languages/top/armckinney/epicentered)
+![GitHub repo size](https://img.shields.io/github/repo-size/armckinney/epicentered)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestendfinancial.herokuapp.com%2F)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://armck-hub.github.io/epicentered/">
+  <a href="https://armckinney.github.io/epicentered/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSN_qj-i91HftDjOE4CgHaimXodMDroGt6qn5_IXsKu4vWJyTHI&usqp=CAU" alt="Logo" width="100" height="100">
   </a>
 
@@ -32,11 +32,11 @@ Version Author: Drew McKinney
   <p align="center">
     Web Mapping Quakes Near You
     <br />
-    <a href="https://armck-hub.github.io/epicentered/" target="_blank"><strong> >> Visit Demo >> </strong></a>
+    <a href="https://armckinney.github.io/epicentered/" target="_blank"><strong> >> Visit Demo >> </strong></a>
     <br />
-    <a href="https://github.com/ARMcK-hub/epicentered/issues">Report Bug</a>
+    <a href="https://github.com/armckinney/epicentered/issues">Report Bug</a>
     -
-    <a href="https://github.com/ARMcK-hub/epicentered/issues">Request Feature</a>
+    <a href="https://github.com/armckinney/epicentered/issues">Request Feature</a>
   </p>
 </p>
 
@@ -56,7 +56,7 @@ Version Author: Drew McKinney
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://armck-hub.github.io/epicentered/)
+[![Product Name Screen Shot][product-screenshot]](https://armckinney.github.io/epicentered/)
 
 Epicentered is a web page detailing a large quantity of earthquake epicenters and their associated details.
 
@@ -101,25 +101,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Stock -->
-[license-url]: https://github.com/ARMcK-hub/West-End-Financial/blob/master/LICENSE.txt
+[license-url]: https://github.com/armckinney/West-End-Financial/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/drew-mckinney/
 [email-shield]: https://img.shields.io/badge/-Email-black.svg?style=flat&colorB=555
 [email-url]: mailto:andrewryanmckinney@gmail.com
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=flat&colorB=555
-[github-url]: https://github.com/ARMcK-hub
+[github-url]: https://github.com/armckinney
 [languages-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=flat&colorB=555
 
 
 <!-- Project Dynamic -->
-[license-shield]: https://img.shields.io/github/license/ARMcK-hub/epicentered.svg?style=flat
-[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/epicentered.svg?style=flat
-[contributors-url]: https://github.com/ARMcK-hub/epicentered/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/epicentered.svg?style=flat
-[forks-url]: https://github.com/ARMcK-hub/epicentered/network/members
-[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/epicentered.svg?style=flat
-[stars-url]: https://github.com/ARMcK-hub/epicentered/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/epicentered.svg?style=flat
-[issues-url]: https://github.com/ARMcK-hub/epicentered/issues
-[product-screenshot]: https://raw.githubusercontent.com/ARMcK-hub/epicentered/master/static/images/Home_Page.png
+[license-shield]: https://img.shields.io/github/license/armckinney/epicentered.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/armckinney/epicentered.svg?style=flat
+[contributors-url]: https://github.com/armckinney/epicentered/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/armckinney/epicentered.svg?style=flat
+[forks-url]: https://github.com/armckinney/epicentered/network/members
+[stars-shield]: https://img.shields.io/github/stars/armckinney/epicentered.svg?style=flat
+[stars-url]: https://github.com/armckinney/epicentered/stargazers
+[issues-shield]: https://img.shields.io/github/issues/armckinney/epicentered.svg?style=flat
+[issues-url]: https://github.com/armckinney/epicentered/issues
+[product-screenshot]: https://raw.githubusercontent.com/armckinney/epicentered/master/static/images/Home_Page.png
 
