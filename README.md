@@ -11,9 +11,6 @@
         <a href="https://github.com/armckinney/epicentered/LICENSE">
             <img alt="License" src="https://img.shields.io/github/license/armckinney/epicentered.svg" />
         </a>
-        <a href="https://github.com/armckinney/epicentered/actions">
-            <img alt="Tests Passing" src="https://github.com/armckinney/epicentered/workflows/pages-build-deployment/badge.svg" />
-        </a>
         <a href="https://codecov.io/gh/armckinney/epicentered">
             <img alt="Code Coverage" src="https://codecov.io/gh/armckinney/epicentered/branch/master/graph/badge.svg" />
         </a>
