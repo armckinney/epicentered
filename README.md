@@ -26,7 +26,7 @@
     </p>
     <p>
     <!-- Links -->
-        <a href="#demo">View Demo</a>
+        <a href="https://armckinney.github.io/epicentered/">View Demo</a>
         ·
         <a href="https://github.com/armckinney/epicentered/issues/new/choose">Report Bug</a>
         ·
