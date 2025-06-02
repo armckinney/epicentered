@@ -16,12 +16,11 @@ var myMap = L.map("map", {
     zoom: 4
   });
 
-// Adding tile layer to the map
-L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.country-boundaries-v1",
-    accessToken: API_KEY
+  // Adding tile layer to the map
+L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+    attribution: "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+    subdomains: "abcd",
+    maxZoom: 20
   }).addTo(myMap);
 
 
@@ -70,6 +69,8 @@ d3.json(urlQuake, function(dataQuake) {
         mag = features.properties.mag
         place = features.properties.place
         time = features.properties.time
+        // Convert UTC timestamp to readable date
+        readableTime = new Date(time).toLocaleString()
         alertStatus = features.properties.alert
         significance = features.properties.sig
 
@@ -89,7 +90,7 @@ d3.json(urlQuake, function(dataQuake) {
             <p>
             Place: ${place}
             <br>
-            Time (UTC): ${time}
+            Time: ${readableTime}
             <br>
             Magnitude: ${mag}
             <br>
